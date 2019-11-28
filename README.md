@@ -139,7 +139,7 @@ $ curl https://sh.rustup.rs -sSf | sh
 $ source $HOME/.cargo/env
 
 # Install the sysroot manager Xargo
-$ cargo install xargo
+$ cargo install xargo --force
 
 # For successive builds start here. If this is your first build, just continue
 
